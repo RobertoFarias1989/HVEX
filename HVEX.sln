@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVEX.Core", "HVEX.Core\HVEX.Core.csproj", "{24C6178B-96D8-4F45-B40F-205187B84F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVEX.Application", "HVEX.Application\HVEX.Application.csproj", "{5AC448BA-248E-4DC8-B8DF-B4FAC52261A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVEX.Infrastructure", "HVEX.Infrastructure\HVEX.Infrastructure.csproj", "{1E9653A6-964D-43AA-BF7F-EF7601C0F5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVEX.Api", "HVEX.Api\HVEX.Api.csproj", "{E87FF85A-63F5-4A4E-8B87-A4BAD5A03A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C6178B-96D8-4F45-B40F-205187B84F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C6178B-96D8-4F45-B40F-205187B84F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C6178B-96D8-4F45-B40F-205187B84F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C6178B-96D8-4F45-B40F-205187B84F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC448BA-248E-4DC8-B8DF-B4FAC52261A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC448BA-248E-4DC8-B8DF-B4FAC52261A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC448BA-248E-4DC8-B8DF-B4FAC52261A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC448BA-248E-4DC8-B8DF-B4FAC52261A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E9653A6-964D-43AA-BF7F-EF7601C0F5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9653A6-964D-43AA-BF7F-EF7601C0F5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9653A6-964D-43AA-BF7F-EF7601C0F5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9653A6-964D-43AA-BF7F-EF7601C0F5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87FF85A-63F5-4A4E-8B87-A4BAD5A03A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87FF85A-63F5-4A4E-8B87-A4BAD5A03A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87FF85A-63F5-4A4E-8B87-A4BAD5A03A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87FF85A-63F5-4A4E-8B87-A4BAD5A03A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {066D45A6-14F5-4AD2-91C9-68E4D64C3C2C}
+	EndGlobalSection
+EndGlobal

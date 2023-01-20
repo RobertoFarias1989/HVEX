@@ -1,0 +1,15 @@
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\HVEX.Infrastructure.csproj.AssemblyReference.cache
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\HVEX.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\HVEX.Infrastructure.AssemblyInfoInputs.cache
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\HVEX.Infrastructure.AssemblyInfo.cs
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\HVEX.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Sdk\HVEX\HVEX.Infrastructure\bin\Debug\net6.0\HVEX.Infrastructure.deps.json
+C:\Sdk\HVEX\HVEX.Infrastructure\bin\Debug\net6.0\HVEX.Infrastructure.dll
+C:\Sdk\HVEX\HVEX.Infrastructure\bin\Debug\net6.0\HVEX.Infrastructure.pdb
+C:\Sdk\HVEX\HVEX.Infrastructure\bin\Debug\net6.0\HVEX.Core.dll
+C:\Sdk\HVEX\HVEX.Infrastructure\bin\Debug\net6.0\HVEX.Core.pdb
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\HVEX.Infrastructure.csproj.CopyComplete
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\HVEX.Infrastructure.dll
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\refint\HVEX.Infrastructure.dll
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\HVEX.Infrastructure.pdb
+C:\Sdk\HVEX\HVEX.Infrastructure\obj\Debug\net6.0\ref\HVEX.Infrastructure.dll

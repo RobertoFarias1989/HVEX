@@ -1,0 +1,17 @@
+C:\Sdk\HVEX\HVEX.Application\bin\Debug\net6.0\HVEX.Application.deps.json
+C:\Sdk\HVEX\HVEX.Application\bin\Debug\net6.0\HVEX.Application.dll
+C:\Sdk\HVEX\HVEX.Application\bin\Debug\net6.0\HVEX.Application.pdb
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\HVEX.Application.csproj.AssemblyReference.cache
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\HVEX.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\HVEX.Application.AssemblyInfoInputs.cache
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\HVEX.Application.AssemblyInfo.cs
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\HVEX.Application.csproj.CoreCompileInputs.cache
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\HVEX.Application.dll
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\refint\HVEX.Application.dll
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\HVEX.Application.pdb
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\ref\HVEX.Application.dll
+C:\Sdk\HVEX\HVEX.Application\bin\Debug\net6.0\HVEX.Core.dll
+C:\Sdk\HVEX\HVEX.Application\bin\Debug\net6.0\HVEX.Core.pdb
+C:\Sdk\HVEX\HVEX.Application\obj\Debug\net6.0\HVEX.Application.csproj.CopyComplete
+C:\Sdk\HVEX\HVEX.Application\bin\Debug\net6.0\HVEX.Infrastructure.dll
+C:\Sdk\HVEX\HVEX.Application\bin\Debug\net6.0\HVEX.Infrastructure.pdb
